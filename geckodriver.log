@@ -1,0 +1,111 @@
+1623934157297	geckodriver	INFO	Listening on 127.0.0.1:56459
+1623934158120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofileOL5xg4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623934172589	Marionette	INFO	Listening on port 56474
+1623934322024	geckodriver	INFO	Listening on 127.0.0.1:56637
+1623934323033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofileYfC8zu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623934326587	Marionette	INFO	Listening on port 56648
+1623934326703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623934334549	Marionette	INFO	Stopped listening on port 56474
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1623934822093	FirefoxAccounts	ERROR	Pairing channel error: Error: WebSocket unexpectedly closed(resource://gre/modules/FxAccountsPairingChannel.js:3564:20) JS Stack trace: FxAccountsPairingChannel</_setupListeners/<@FxAccountsPairingChannel.js:3564:20
+1623934823354	geckodriver	INFO	Listening on 127.0.0.1:56975
+1623934824318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofile9rP9bb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623934827785	Marionette	INFO	Listening on port 56986
+1623934827879	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1623934897906	geckodriver	INFO	Listening on 127.0.0.1:57140
+1623934899038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofileeCG5P8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623934902909	Marionette	INFO	Listening on port 57151
+1623934903018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623934988641	Marionette	INFO	Stopped listening on port 57151
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623935010577	geckodriver	INFO	Listening on 127.0.0.1:57264
+1623935011594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofileXODO6D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623935014835	Marionette	INFO	Listening on port 57275
+1623935014866	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MjM5NTYxMTUsImlhdCI6MTYyMzkzNDUxNSwianRpIjoiMjQ5NDk4M2E2NTEyN2MzZTU4ZjlmYzQ2NGM5OTYxZDkzZGVkZjI5NThhMzUwNGU5YWNiYzEyYzEyYWU0OWZhZSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJkYzUyZTNlODlmZGU0YjFmYTZjYjFjZmRiMDQ3NjEyNyIsImZ4YS1nZW5lcmF0aW9uIjoxNjIzOTM0NDk0MzMxLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYyMzkzNDQ5NDMzMX0.m4a6qyoABSl9CALI-2b9Z4bRcLJa2hGoqruhR-WfJAg59cMLZ46UTas9utUHR7XjGHY7vik8dLbohhhUb-9j6MU3XTFnlQOZwfY7I15isWAPAh-Lk0FBqgVssU37ayPw8AM1gEgwayTqLVUYndF0ps3HWcJ05s4Hilzx9x0PpNvjDALvLFJDBbjNMBHpf4fuC778BPnZ-2FuS5jivIXydTAZ7qNPycCb9c51YjkgvRVHDV50-Ui4jxLPmmTBHPQUmcYKQgKCVY67NbxXf7mNamNAyU61VmsZkjOjrXZ2i36ZpqAtsENNjDiCXQKBwwaQK5phoWjfDej8hW27Ane7Ow"
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MjQwMDI5NjQsImlhdCI6MTYyMzk4MTM2NCwianRpIjoiNzUxYmNhNjQzOTk2OGQwODRjODgzMzI0NWNlM2JkNjU4NDdhNGJkZGUxMjY3YjA2Nzg4N2E1NjA3M2UwYjcyNSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJkYzUyZTNlODlmZGU0YjFmYTZjYjFjZmRiMDQ3NjEyNyIsImZ4YS1nZW5lcmF0aW9uIjoxNjIzOTM0NDk0MzMxLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYyMzkzNDQ5NDMzMX0.REu8-PVv-ROi4KZFxQwtRzmtUUwTlb-blf2kwa4kK7xBcPRIW8IJJur1vve7cDnBV9Cbbdbt1fIs6DgrDhxa4kU1eWX80owH22KZusOCe7OSyO4yKqX-oWyVyZsfzoZOjD6v805IRz5ZRvfbI42WuS9xCacDmddXEeOT6ZhlRikO94anw_NKTl6dXuhZMIrNShz4_DEAWbO2Qhb3HTIJJXKPhw6TqPmFkFGZuhcu84D62ym2oyJZJ_LzamEM2PJiHNcg3OdaYm6asigYrDOuhx8UuY5Nn0JBGLSd0M6cgmzIXZ4PrB9xnO4LZa07Q6ZvQISinlgnw7iCgZIZYwFQaw"
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MjQwMzgwOTIsImlhdCI6MTYyNDAxNjQ5MiwianRpIjoiNTVmN2VmYzBmMzE4N2RiMWZlN2FiMTAxYzk4NmQzYTBlNmZhNWY0YWZjYTI2MmVlOTNkNTQxZWJjYzliZGM1OSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJkYzUyZTNlODlmZGU0YjFmYTZjYjFjZmRiMDQ3NjEyNyIsImZ4YS1nZW5lcmF0aW9uIjoxNjIzOTM0NDk0MzMxLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYyMzkzNDQ5NDMzMX0.k0hEJB1FaAZE9zU7bhjGO6HACqQpGIp7tCX_p8IeEuixcyNx_wYb9nnVRtKyOK1fUCQj6FS009Q080_Y6GPHh1S1I9HDYGWnRklaQPG4ky3PwSU01sNYknB6FGkFsB1pST34Ia8Z4G5LzNhZ8rYi9j320SAtdmRhZWOYAJIL1eh5G7c7v7woOS-fcRnt1ygwSTaL1PYtjBKAKy4AvpZgAoWdmDYOAZm4WKXAbbG4MUUWkcleeIXx1sPoTLta1hLTr0uM_zFWHfnsgrMqUYae4AQPD0J_-xvuobbRXghIK5EfEKg5bTrT9g72TMmpo2AumD7HW90u-IFTfasGmwPESw"
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MjQwNjI0MjIsImlhdCI6MTYyNDA0MDgyMiwianRpIjoiYTUzZDY1ZDhiMjRkYjliZjk4ZTQ0YjI4ZmJiOTZkN2E1OWRmOTVjM2MyM2MxNWIzYjUxZjllODU1ZmRhYmZiNiIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJkYzUyZTNlODlmZGU0YjFmYTZjYjFjZmRiMDQ3NjEyNyIsImZ4YS1nZW5lcmF0aW9uIjoxNjIzOTM0NDk0MzMxLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYyMzkzNDQ5NDMzMX0.rYlA8vu9-GwdKuxzWnuDckvomHAL2U0e4MNxY0eOqy1GP9-K2GtUYE0vJh0kLHyBSHnGiMwqgU6xyVGK3OpP892Uzcmo_ZWXKd2mvlOpJbAquuHu0Op4Uopn0lIX63nEqjb19khf-hHIhAxi_r9GQS8A78HoSkYpXWsBZ3SLcdBkX2rZiVeCc8f9fRNPJYvIuWmbCovy0bpKgEZk1YCUUg8KFdKSHGBy7LGduVtFeE5_PSetLxCA6M0c4VPa6KyoCA3nWg98LjwX033EX91mxdcH9hPrbALxQglj9g90DnfdJAy2VwpjqZYzzHQsh-jO3JzpnQmVN6dmmbmNmCx78w"
+1624083971536	geckodriver	INFO	Listening on 127.0.0.1:52267
+1624083972544	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofilec9lMLW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624083976830	Marionette	INFO	Listening on port 52278
+1624083976915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624084159187	geckodriver	INFO	Listening on 127.0.0.1:52438
+1624084160197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofileiB8zrH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624084163932	Marionette	INFO	Listening on port 52449
+1624084164026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624084388056	geckodriver	INFO	Listening on 127.0.0.1:52665
+1624084389071	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofileMa2KvG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624084393117	Marionette	INFO	Listening on port 52676
+1624084393175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624084408588	Marionette	INFO	Stopped listening on port 56648
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624084413808	Marionette	INFO	Stopped listening on port 56986
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624084416452	Marionette	INFO	Stopped listening on port 57275
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624084420371	Marionette	INFO	Stopped listening on port 52278
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624084423773	Marionette	INFO	Stopped listening on port 52449
+1624084485123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1624084577856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624096294381	geckodriver	INFO	Listening on 127.0.0.1:53747
+1624096295393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofile14TzEv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624096298956	Marionette	INFO	Listening on port 53758
+1624096299046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624096301598	Marionette	INFO	Stopped listening on port 52676
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624096340485	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1624096340486	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624106738563	geckodriver	INFO	Listening on 127.0.0.1:54853
+1624106739577	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofileTiImNk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624106743198	Marionette	INFO	Listening on port 54864
+1624106743239	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1624108983099	geckodriver	INFO	Listening on 127.0.0.1:55224
+1624108984142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kc/hr8hm9y56w9f7k0xpkfmbgdm0000gn/T/rust_mozprofile2jcM2H"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624108987758	Marionette	INFO	Listening on port 55236
+1624108987821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher4
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 219: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher4
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
